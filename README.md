@@ -1,1 +1,2 @@
-# -SpringSecurity_JPA-authentication
+#  Spring Security with JPA authentication
+
