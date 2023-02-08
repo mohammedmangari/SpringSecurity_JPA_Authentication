@@ -1,4 +1,4 @@
-#  Spring Security with JPA authentication
+#  Spring Boot and Spring Security with JPA authentication and MySQL from scratch 
 
     
    ## Overview
